@@ -1,4 +1,4 @@
-# ds4200-final
+# DS4200 Final Project Group 28 
 
 **Research Topic:** Spotify Music Trends
 
